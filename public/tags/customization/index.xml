@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Customization on People Of The Book</title>
+    <link>//localhost:1313/tags/customization/</link>
+    <description>Recent content in Customization on People Of The Book</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <managingEditor>pob@aol.com (Adnan Baig)</managingEditor>
+    <webMaster>pob@aol.com (Adnan Baig)</webMaster>
+    <lastBuildDate>Mon, 11 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/customization/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Custom JavaScript and CSS</title>
+      <link>//localhost:1313/post/custom/</link>
+      <pubDate>Mon, 11 Dec 2023 00:00:00 +0000</pubDate><author>pob@aol.com (Adnan Baig)</author>
+      <guid>//localhost:1313/post/custom/</guid>
+      <description>&lt;p&gt;With custom CSS and JavaScript you can change pretty much anything in &lt;a href=&#34;https://github.com/LucasVadilho/heyo-hugo-theme&#34;&gt;heyo&lt;/a&gt; appearance or functionality, and it&amp;rsquo;s pretty simple, too!&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
