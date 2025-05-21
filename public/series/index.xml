@@ -8,14 +8,6 @@
     <language>en</language>
     <managingEditor>pob@aol.com (Adnan Baig)</managingEditor>
     <webMaster>pob@aol.com (Adnan Baig)</webMaster>
-    <lastBuildDate>Mon, 07 Aug 2023 00:00:00 +0000</lastBuildDate>
     <atom:link href="//localhost:1313/series/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Themes Guide</title>
-      <link>//localhost:1313/series/themes-guide/</link>
-      <pubDate>Mon, 07 Aug 2023 00:00:00 +0000</pubDate><author>pob@aol.com (Adnan Baig)</author>
-      <guid>//localhost:1313/series/themes-guide/</guid>
-      <description></description>
-    </item>
   </channel>
 </rss>

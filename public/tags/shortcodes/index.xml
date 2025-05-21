@@ -8,21 +8,14 @@
     <language>en</language>
     <managingEditor>pob@aol.com (Adnan Baig)</managingEditor>
     <webMaster>pob@aol.com (Adnan Baig)</webMaster>
-    <lastBuildDate>Sun, 06 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 May 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="//localhost:1313/tags/shortcodes/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Post Thumbnail</title>
-      <link>//localhost:1313/post/thumbnail/</link>
-      <pubDate>Sun, 06 Aug 2023 00:00:00 +0000</pubDate><author>pob@aol.com (Adnan Baig)</author>
-      <guid>//localhost:1313/post/thumbnail/</guid>
-      <description>&lt;p&gt;You can now add thumbnails to your posts in &lt;a href=&#34;https://github.com/LucasVadilho/heyo-hugo-theme&#34;&gt;heyo&lt;/a&gt;!&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Callout shortcode</title>
-      <link>//localhost:1313/post/callouts/</link>
-      <pubDate>Sat, 05 Aug 2023 00:00:00 +0000</pubDate><author>pob@aol.com (Adnan Baig)</author>
-      <guid>//localhost:1313/post/callouts/</guid>
-      <description>&lt;p&gt;Check it out, &lt;a href=&#34;https://github.com/LucasVadilho/heyo-hugo-theme&#34;&gt;heyo&lt;/a&gt; has callouts now!&lt;/p&gt;</description>
+      <title>5 Minute Hifz</title>
+      <link>//localhost:1313/post/hifz1/</link>
+      <pubDate>Wed, 21 May 2025 00:00:00 +0000</pubDate><author>pob@aol.com (Adnan Baig)</author>
+      <guid>//localhost:1313/post/hifz1/</guid>
+      <description>&lt;p&gt;A first principles approach to Quran memorisation. For peoople who want to be Hafeez but can&amp;rsquo;t find the time.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Badges</title>

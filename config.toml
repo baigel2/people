@@ -88,13 +88,25 @@ url = "mailto:lucas.vadilho@gmail.com"
                 pageRef = "/"
                 weight = 1
             [[languages.en.menus.main]]
-                name = "Posts"
-                pageRef = "/post"
-                weight = 2
-            [[languages.en.menus.main]]
                 name = "About"
                 pageRef = "/about"
+                weight = 2
+            [[languages.en.menus.main]]
+                name = "Posts"
+                pageRef = "/post"
                 weight = 3
+            [[languages.en.menus.main]]
+                name = "Wisdom"
+                pageRef = "/wisdom"
+                weight = 4
+#            [[languages.en.menus.main]]
+#                name = "Merch"
+#                pageRef = "/merch"
+#                weight = 5
+
+
+
+
 
 [markup]
     [markup.goldmark.renderer]

@@ -8,27 +8,13 @@
     <language>en</language>
     <managingEditor>pob@aol.com (Adnan Baig)</managingEditor>
     <webMaster>pob@aol.com (Adnan Baig)</webMaster>
-    <lastBuildDate>Tue, 12 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 May 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="//localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Heyo</title>
       <link>//localhost:1313/categories/heyo/</link>
-      <pubDate>Tue, 12 Dec 2023 00:00:00 +0000</pubDate><author>pob@aol.com (Adnan Baig)</author>
+      <pubDate>Wed, 21 May 2025 00:00:00 +0000</pubDate><author>pob@aol.com (Adnan Baig)</author>
       <guid>//localhost:1313/categories/heyo/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Syntax</title>
-      <link>//localhost:1313/categories/syntax/</link>
-      <pubDate>Mon, 07 Aug 2023 00:00:00 +0000</pubDate><author>pob@aol.com (Adnan Baig)</author>
-      <guid>//localhost:1313/categories/syntax/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Themes</title>
-      <link>//localhost:1313/categories/themes/</link>
-      <pubDate>Mon, 07 Aug 2023 00:00:00 +0000</pubDate><author>pob@aol.com (Adnan Baig)</author>
-      <guid>//localhost:1313/categories/themes/</guid>
       <description></description>
     </item>
   </channel>

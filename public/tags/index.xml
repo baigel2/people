@@ -8,41 +8,20 @@
     <language>en</language>
     <managingEditor>pob@aol.com (Adnan Baig)</managingEditor>
     <webMaster>pob@aol.com (Adnan Baig)</webMaster>
-    <lastBuildDate>Tue, 12 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 May 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>CJK</title>
-      <link>//localhost:1313/tags/cjk/</link>
-      <pubDate>Tue, 12 Dec 2023 00:00:00 +0000</pubDate><author>pob@aol.com (Adnan Baig)</author>
-      <guid>//localhost:1313/tags/cjk/</guid>
+      <title>Shortcodes</title>
+      <link>//localhost:1313/tags/shortcodes/</link>
+      <pubDate>Wed, 21 May 2025 00:00:00 +0000</pubDate><author>pob@aol.com (Adnan Baig)</author>
+      <guid>//localhost:1313/tags/shortcodes/</guid>
       <description></description>
     </item>
     <item>
       <title>Theme</title>
       <link>//localhost:1313/tags/theme/</link>
-      <pubDate>Tue, 12 Dec 2023 00:00:00 +0000</pubDate><author>pob@aol.com (Adnan Baig)</author>
+      <pubDate>Wed, 21 May 2025 00:00:00 +0000</pubDate><author>pob@aol.com (Adnan Baig)</author>
       <guid>//localhost:1313/tags/theme/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Css</title>
-      <link>//localhost:1313/tags/css/</link>
-      <pubDate>Mon, 11 Dec 2023 00:00:00 +0000</pubDate><author>pob@aol.com (Adnan Baig)</author>
-      <guid>//localhost:1313/tags/css/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Customization</title>
-      <link>//localhost:1313/tags/customization/</link>
-      <pubDate>Mon, 11 Dec 2023 00:00:00 +0000</pubDate><author>pob@aol.com (Adnan Baig)</author>
-      <guid>//localhost:1313/tags/customization/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>JS</title>
-      <link>//localhost:1313/tags/js/</link>
-      <pubDate>Mon, 11 Dec 2023 00:00:00 +0000</pubDate><author>pob@aol.com (Adnan Baig)</author>
-      <guid>//localhost:1313/tags/js/</guid>
       <description></description>
     </item>
     <item>
@@ -53,13 +32,6 @@
       <description></description>
     </item>
     <item>
-      <title>Html</title>
-      <link>//localhost:1313/tags/html/</link>
-      <pubDate>Mon, 07 Aug 2023 00:00:00 +0000</pubDate><author>pob@aol.com (Adnan Baig)</author>
-      <guid>//localhost:1313/tags/html/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Javascript</title>
       <link>//localhost:1313/tags/javascript/</link>
       <pubDate>Mon, 07 Aug 2023 00:00:00 +0000</pubDate><author>pob@aol.com (Adnan Baig)</author>
@@ -67,31 +39,10 @@
       <description></description>
     </item>
     <item>
-      <title>Markdown</title>
-      <link>//localhost:1313/tags/markdown/</link>
-      <pubDate>Mon, 07 Aug 2023 00:00:00 +0000</pubDate><author>pob@aol.com (Adnan Baig)</author>
-      <guid>//localhost:1313/tags/markdown/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>P5js</title>
       <link>//localhost:1313/tags/p5js/</link>
       <pubDate>Mon, 07 Aug 2023 00:00:00 +0000</pubDate><author>pob@aol.com (Adnan Baig)</author>
       <guid>//localhost:1313/tags/p5js/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Themes</title>
-      <link>//localhost:1313/tags/themes/</link>
-      <pubDate>Mon, 07 Aug 2023 00:00:00 +0000</pubDate><author>pob@aol.com (Adnan Baig)</author>
-      <guid>//localhost:1313/tags/themes/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Shortcodes</title>
-      <link>//localhost:1313/tags/shortcodes/</link>
-      <pubDate>Sun, 06 Aug 2023 00:00:00 +0000</pubDate><author>pob@aol.com (Adnan Baig)</author>
-      <guid>//localhost:1313/tags/shortcodes/</guid>
       <description></description>
     </item>
   </channel>
