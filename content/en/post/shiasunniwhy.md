@@ -29,7 +29,7 @@ categories:
 
 ---
 
-Born into a Sunni family, I've been learning about and internally exploring Shia Islam. Here are my thoughts so far.
+Born into a Sunni family, I've been learning about and exploring Shia Islam. Here are my thoughts so far.
 
 <!--more-->
 
