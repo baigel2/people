@@ -122,7 +122,7 @@ To make things easier, I will refer to the 'commiting to memory' stage as input 
 
 ## Stage 1: Input.
 
-Around Fajr time, either before or just after you pray, spend up a maximum of 5 mins (yes maximum) revising a verse or a number of verses you want to learn.
+Around Fajr time, either before or just after you pray, spend up to a maximum of 5 mins (yes maximum) revising a verse or a number of verses you want to learn.
 
 Why 5 minutes? No, not just because that's the name of the method. Limiting your practice time in the morning as well as not looking at the verses or listening to them throught the day tricks your brain into thinking that this information is more rare and therefore more valuable.
 
@@ -140,7 +140,7 @@ You are now no longer allowed to listen to or read that those verses (by sight) 
 
 ## Stage 2: Recall.
 
-Throught the day, try as much as you can to recall the verses you read in the morning. Don't worry if at first it seems almost impossible or you only remember one verse.
+Throught the day, try as much as you can to recall the verses you read in the morning. Don't worry if at first it seems almost impossible or you only remember one verse. You don't have to constantly recall the verses either. It should be casual and throught the day in a way that isn't stressfull or preassuring.
 
 Whatever you can remember is progress and the more you try (over time) the better you will get at recalling verses.
 
