@@ -8,6 +8,9 @@
     <loc>//localhost:1313/categories/</loc>
     <lastmod>2025-05-21T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>//localhost:1313/post/evolutionlabels/</loc>
+    <lastmod>2025-05-21T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>//localhost:1313/categories/experiments/</loc>
     <lastmod>2025-05-21T00:00:00+00:00</lastmod>
   </url><url>
@@ -32,7 +35,16 @@
     <loc>//localhost:1313/tags/quran/</loc>
     <lastmod>2025-05-21T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>//localhost:1313/categories/religion/</loc>
+    <lastmod>2025-05-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/religion-vs-science/</loc>
+    <lastmod>2025-05-21T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>//localhost:1313/categories/religious-divergence/</loc>
+    <lastmod>2025-05-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/categories/science/</loc>
     <lastmod>2025-05-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/tags/shia-vs-sunni/</loc>

@@ -51,13 +51,11 @@ I'm not here to win. I'm here to learn and I think if people had conversations i
 
 One of the common themes we hear about in the Quran when Allah speaks about non believers is how they used to reject Islam not because they believed it to be false but because it was not the religion of their fathers and forefathers. Another example I find amusing is just before the time of the Prophet PBUH when the Jews and Chrisians used to boast to the pagan arabs that 'their' prophet would soon be coming to this area and then, led by him they would ruin the pagans, but then when they saw that Prophet rise from among the pagans themselves (though obviously not being pagan himself) they rejected him.
 
-We Muslims like to think that we are beyond this sillyness. That we would not think about ourselves or others like this.
+We Muslims like to think that we are beyond this behaviour. That we would not think about ourselves or others like this.
 
 But let me ask you. Sunni, Shia or just Muslim. Did you choose to be who you are? Or did you simply accept what you were given without thought?
 
-Unfortunate is not the word. I must find much more powerfull words to describe the utter tragadies that have occurred throught the history of Islam. Family members of the Prophet himself, killed by people who professed to being Muslim!
-
-Until this day Sunnis and Shias kill each other in some parts of the world and live together harmoneously in others.
+It might just be the way things happen but it seems like too many people including myself in my early youth unfortunately just accept what their taught without questioning it. This has also allowed different cultures across the centuries to infuse themselves within Islam.
 
 Raised as a Sunni (though I have ventured outside of Islam as well in the past) when I had the opportunity to experience worshiping in a Shia mosque for the first time earlier this year (2025) something incredible happened that I had never experienced before. A spiritual experience that has kept me going to the same mosue ever since.
 

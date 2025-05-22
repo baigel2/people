@@ -36,7 +36,7 @@ Exploring the power of labels and the effects of how they are used for better or
 
 # A thought experiment.
 
-Imagine for a moment a villiage with a poulation of 100 families. Now imagine that in the culture of this villiage a special religious significance is given to people who are above 6ft tall and have green eyes.
+Imagine for a moment a villiage with a poulation of 100 families. Now imagine that in the culture of this villiage, special religious significance is given to people who are above 6ft tall and have green eyes.
 
 If in the beginning we assume the villiga has a normal diversity of heights and eye colors but this new religion came in and swept the population by storm. For 10's of generations people were choosing partners based on their height and eye color.
 
@@ -70,7 +70,9 @@ It's something I'm going to dedicate some time to for sure to find out because I
 
 If we make an exception for humans then is there really anything wrong with it?
 
+When people say that there is no evidence for evolution it becomes necassary to ask, what counts as evidence. Lets have a look, but first...
 
+# It's "just" a theory.
 
 
 <br>
