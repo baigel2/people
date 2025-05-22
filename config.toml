@@ -56,10 +56,10 @@ pagination.PagerSize = 10
     use = "mathjax" # katex or mathjax, default is mathjax
 
 ## Social links
-[[params.socialIcons]]
-icon = "fab fa-linkedin" # Font-awesome icon
-title = "Linkedin"
-url = "https://linkedin.com/"
+#[[params.socialIcons]]
+#icon = "fab fa-linkedin" # Font-awesome icon
+#title = "Linkedin"
+#url = "https://linkedin.com/"
 
 [[params.socialIcons]]
 icon = "fab fa-github"
@@ -74,7 +74,7 @@ url = "https://www.instagram.com/"
 [[params.socialIcons]]
 icon = "fas fa-envelope"
 title = "e-mail"
-url = "mailto:lucas.vadilho@gmail.com"
+url = "mailto:peopleofthebook601@gmail.com"
 
 [languages]
     [languages.en]

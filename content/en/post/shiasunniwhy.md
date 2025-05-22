@@ -63,4 +63,68 @@ Raised as a Sunni (though I have ventured outside of Islam as well in the past) 
 
 # Praying behind the Prophet.
 
-Earlier in the year I, along with most of the other people at work were invited to go to a - khatam? see booklet draft in google docs.
+Earlier this year I was invited to attend a Khatam at a local Shia mosque which I obviously accepted. At that time I knew that Shia's prayed with their hands to their sides and prostrated on top of stones but that was about it. I did not know that they would be praying Isha immidiately after Maghrib.
+
+Going in to the event I had some slight apprihention thinking about the opinions of sunni's on how Shia's worship but I my belief on the matter was and still is simple:
+
+I could see two perspectives that I could adopt:
+
+1. Here’s something I don’t understand. Therefore it’s wrong. (A perspective commonly held by people who get their education from Muslim youtubers and influencers instead of actual scholars and literature.) A perspective based on fear and ignorance.
+2. Here’s something I don’t understand. Let me learn about it. A perspective based on curiosity and a mind open enough to learn but hopefully not so open that my brain falls out.
+
+I chose the second option. 
+
+As we prepared to read Isha following the Maghrib prayer a voice in my head cried "It's not time!!" To which I replied "I'm here to learn." But while praying Isha something incredible happened. I had an experience of a spiritual nature that I have never had before. One that keeps me going to the same mosque to this day.
+
+As we settled into the prayer I began to feel like we were actually being led in prayer by the holy Prohet himself PBUH! It was a literal feeling but of a spiritual nature. I literally felt like we were praying behind the Prophet PBUH. The experience had an effect on me for several days afterwards.
+
+Now imagine this happens to you. I think you would want more of that right? Well I did and it's why I still default to going to the same mosque every Jummah.
+
+Then, later, as I started to learn about Shia Islam I actually learnt that the idea of combining prayers can also be found in Sunni literature and that the Prophet sometimes used to combine prayers for no other reason than to make life easier for his followers.
+
+
+Just take a look at some of the hadiths I found in Sahih Muslim below:
+
+References from sunni literature allowing the combination of prayers:
+
+Sahih Muslim Volume 2 Chapter 6 Pages 216 -218, Hadiths 1628-1633:
+
+Source: https://dn790008.ca.archive.org/0/items/SahihMuslimVol1Eng/Sahih%20Muslim%20Vol-2.pdf
+
+![Sahih Muslim](/images/combiningPrayers.png)
+
+I wondered, why did Sunni influencers I used to follow not talk about or ever even mention things like this? In fact, some of them even said the exact opposite. I remembered a video where one guy said if your prayer is one minute before or one miniute after the prescribed time it is not valid even if you read a thousand rakats.
+
+Why would people say something like this when even in Sunni literature the opposite is clearly shown?
+
+This increased my curiosity regarding Shia Islam tenfold. Now I **had** to learn more. It's one thing for each group to say the other is wrong. That happens in all religous sects. Protestants and Catholics are a great example of this.
+
+But when the very points that Sunni influencers and youtubers object to can be proven from Sunni literature itself, what am I to do?
+
+This is why I am stil exploring Shia Islam and will likely continue for the forseeable future though I am still very much at the beginning of this journey.
+
+
+<br>
+
+---
+
+<br>
+
+Thanks for reading this post! Hopefully you enjoyed reading it or at least found it interesting. If you'd like to read more articles like this feel free to follow me on social media using the links on [the homepage](https://peopleofthebook.co.uk) or below.
+
+If you'd like to support my work feel free to share my posts or website on social media. If there's a topic you'd like me to consider feel free to email me at peopleofthebook601@gmail.com
+
+Also, I have a poetry book! It's published [here](https://amzn.eu/d/3nzHMT6) on Amazon and free to read if you're a kindle unlimited subscriber. Kindle unlimited authors get paid based on how many pages are read.
+
+Alternatively you can buy the ebook for £1.99 from the UK site, the prices will vary if you're in a different part of the world.
+
+I'm giving 50% profits to charity: 25% Palestine and 25% to the Uyghur Muslims of Turkestan. A further 25% of profits will go towards other projects i'm working on that will raise more money for people in need.
+
+
+[*Twitter:* https://twitter.com/baigelbytes](https://twitter.com/BaigelBytes)
+
+[*IG:* https://www.instagram.com/baigelbytes1/](https://www.instagram.com/baigelbytes1/)
+
+[*Threads:* https://www.threads.net/@baigelbytes1](https://www.threads.net/@baigelbytes1)
+
+[*Gmail:* peopleofthebook601@gmail.com](peopleofthebook601@gmail.com)
