@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Science on People Of The Book</title>
+    <link>//localhost:1313/categories/science/</link>
+    <description>Recent content in Science on People Of The Book</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <managingEditor>pob@aol.com (Adnan Baig)</managingEditor>
+    <webMaster>pob@aol.com (Adnan Baig)</webMaster>
+    <lastBuildDate>Wed, 21 May 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/categories/science/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Evolution and the power of labels.</title>
+      <link>//localhost:1313/post/evolutionlabels/</link>
+      <pubDate>Wed, 21 May 2025 00:00:00 +0000</pubDate><author>pob@aol.com (Adnan Baig)</author>
+      <guid>//localhost:1313/post/evolutionlabels/</guid>
+      <description>&lt;p&gt;Exploring the power of labels and the effects of how they are used for better or for worse.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
