@@ -24,7 +24,7 @@ pagination.PagerSize = 10
 [params]
     title = "People Of The Book"
     description = "Call me Jane"
-    profilePicture = "images/quran.png"
+    profilePicture = "images/colouredQuran.png"
     favicon = "favicons/"
     customCss = []
     customJs = []
@@ -61,20 +61,33 @@ pagination.PagerSize = 10
 #title = "Linkedin"
 #url = "https://linkedin.com/"
 
-[[params.socialIcons]]
-icon = "fab fa-github"
-title = "GitHub"
-url = "https://github.com/LucasVadilho/heyo-hugo-theme"
+#[[params.socialIcons]]
+#icon = "fab fa-github"
+#title = "GitHub"
+#url = "https://github.com/LucasVadilho/heyo-hugo-theme"
 
-[[params.socialIcons]]
-icon = "fab fa-instagram"
-title = "instagram"
-url = "https://www.instagram.com/"
 
 [[params.socialIcons]]
 icon = "fas fa-envelope"
 title = "e-mail"
 url = "mailto:peopleofthebook601@gmail.com"
+
+
+
+[[params.socialIcons]]
+icon = "fab fa-instagram"
+title = "instagram"
+url = "https://www.instagram.com/peopleofthebook601/"
+
+
+#[[params.socialIcons]]
+#icon = "fab fa-threads"
+#title = "threads"
+#url = "https://www.threads.com/@peopleofthebook601"
+
+
+
+
 
 [languages]
     [languages.en]

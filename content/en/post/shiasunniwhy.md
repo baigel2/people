@@ -1,7 +1,7 @@
 ---
 author: Adnan Baig 
 title: Shia vs Sunni, why "vs"?
-date: 2025-05-21 
+date: 2025-05-25 
 description: Are the two sects really **that** different?
 tags: 
     - Islam

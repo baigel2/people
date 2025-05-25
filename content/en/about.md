@@ -24,6 +24,20 @@ For instance, I'm developing a personal method to make memorising the Quran easi
 You can read about it [here](post/5minutehifz)
 
 
+
+# Socials:
+
+If you want to get in contact or follow me on social media you can do so with the links below:
+
+[Instagram: peopleofthebook601](https://www.instagram.com/peopleofthebook601/)
+
+[Threads: @peopleofthebook601](https://www.threads.com/@peopleofthebook601)
+
+[Gmail: peopleofthebook601@gmail.com](peopleofthebook601@gmail.com)
+
+
+
+
 # Acknowlegements:
 
 Many of the structural and asthetic elements of this blog were created by others such as the hugo theme 'heyo' and the icon of the Quran at the top of the page
@@ -31,8 +45,26 @@ Many of the structural and asthetic elements of this blog were created by others
 Feel free to check out those creators works here:
 
 
-Quran logo:
+## Quran logo:
+
+Created by Medz on flaticon.com
+
+[https://www.flaticon.com/authors/medz](https://www.flaticon.com/authors/medz)
+
+
+## Heyo Theme:
+
+Created by, Lucas David Vadilho
+
+On Hugo themes:
+
+[https://themes.gohugo.io/themes/heyo-hugo-theme/](https://themes.gohugo.io/themes/heyo-hugo-theme/)
+
+His github:
+
+[https://github.com/LucasVadilho/heyo-hugo-theme](https://github.com/LucasVadilho/heyo-hugo-theme)
 
 
 
-Heyo Theme:
+
+

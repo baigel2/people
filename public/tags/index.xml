@@ -8,90 +8,55 @@
     <language>en</language>
     <managingEditor>pob@aol.com (Adnan Baig)</managingEditor>
     <webMaster>pob@aol.com (Adnan Baig)</webMaster>
-    <lastBuildDate>Wed, 21 May 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 May 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hafiz</title>
       <link>//localhost:1313/tags/hafiz/</link>
-      <pubDate>Wed, 21 May 2025 00:00:00 +0000</pubDate><author>pob@aol.com (Adnan Baig)</author>
+      <pubDate>Sun, 25 May 2025 00:00:00 +0000</pubDate><author>pob@aol.com (Adnan Baig)</author>
       <guid>//localhost:1313/tags/hafiz/</guid>
       <description></description>
     </item>
     <item>
       <title>Hifz</title>
       <link>//localhost:1313/tags/hifz/</link>
-      <pubDate>Wed, 21 May 2025 00:00:00 +0000</pubDate><author>pob@aol.com (Adnan Baig)</author>
+      <pubDate>Sun, 25 May 2025 00:00:00 +0000</pubDate><author>pob@aol.com (Adnan Baig)</author>
       <guid>//localhost:1313/tags/hifz/</guid>
       <description></description>
     </item>
     <item>
       <title>Islam</title>
       <link>//localhost:1313/tags/islam/</link>
-      <pubDate>Wed, 21 May 2025 00:00:00 +0000</pubDate><author>pob@aol.com (Adnan Baig)</author>
+      <pubDate>Sun, 25 May 2025 00:00:00 +0000</pubDate><author>pob@aol.com (Adnan Baig)</author>
       <guid>//localhost:1313/tags/islam/</guid>
       <description></description>
     </item>
     <item>
       <title>Memorisation</title>
       <link>//localhost:1313/tags/memorisation/</link>
-      <pubDate>Wed, 21 May 2025 00:00:00 +0000</pubDate><author>pob@aol.com (Adnan Baig)</author>
+      <pubDate>Sun, 25 May 2025 00:00:00 +0000</pubDate><author>pob@aol.com (Adnan Baig)</author>
       <guid>//localhost:1313/tags/memorisation/</guid>
       <description></description>
     </item>
     <item>
       <title>Quran</title>
       <link>//localhost:1313/tags/quran/</link>
-      <pubDate>Wed, 21 May 2025 00:00:00 +0000</pubDate><author>pob@aol.com (Adnan Baig)</author>
+      <pubDate>Sun, 25 May 2025 00:00:00 +0000</pubDate><author>pob@aol.com (Adnan Baig)</author>
       <guid>//localhost:1313/tags/quran/</guid>
       <description></description>
     </item>
     <item>
       <title>Religion vs Science</title>
       <link>//localhost:1313/tags/religion-vs-science/</link>
-      <pubDate>Wed, 21 May 2025 00:00:00 +0000</pubDate><author>pob@aol.com (Adnan Baig)</author>
+      <pubDate>Sun, 25 May 2025 00:00:00 +0000</pubDate><author>pob@aol.com (Adnan Baig)</author>
       <guid>//localhost:1313/tags/religion-vs-science/</guid>
       <description></description>
     </item>
     <item>
       <title>Shia vs Sunni</title>
       <link>//localhost:1313/tags/shia-vs-sunni/</link>
-      <pubDate>Wed, 21 May 2025 00:00:00 +0000</pubDate><author>pob@aol.com (Adnan Baig)</author>
+      <pubDate>Sun, 25 May 2025 00:00:00 +0000</pubDate><author>pob@aol.com (Adnan Baig)</author>
       <guid>//localhost:1313/tags/shia-vs-sunni/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Creative Coding</title>
-      <link>//localhost:1313/tags/creative-coding/</link>
-      <pubDate>Mon, 07 Aug 2023 00:00:00 +0000</pubDate><author>pob@aol.com (Adnan Baig)</author>
-      <guid>//localhost:1313/tags/creative-coding/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Javascript</title>
-      <link>//localhost:1313/tags/javascript/</link>
-      <pubDate>Mon, 07 Aug 2023 00:00:00 +0000</pubDate><author>pob@aol.com (Adnan Baig)</author>
-      <guid>//localhost:1313/tags/javascript/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>P5js</title>
-      <link>//localhost:1313/tags/p5js/</link>
-      <pubDate>Mon, 07 Aug 2023 00:00:00 +0000</pubDate><author>pob@aol.com (Adnan Baig)</author>
-      <guid>//localhost:1313/tags/p5js/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Theme</title>
-      <link>//localhost:1313/tags/theme/</link>
-      <pubDate>Mon, 07 Aug 2023 00:00:00 +0000</pubDate><author>pob@aol.com (Adnan Baig)</author>
-      <guid>//localhost:1313/tags/theme/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Shortcodes</title>
-      <link>//localhost:1313/tags/shortcodes/</link>
-      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate><author>pob@aol.com (Adnan Baig)</author>
-      <guid>//localhost:1313/tags/shortcodes/</guid>
       <description></description>
     </item>
   </channel>
