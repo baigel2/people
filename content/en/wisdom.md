@@ -11,10 +11,30 @@ date: 2025-05-20
 
 <br>
 
+**“What you hide in your heart, appears in your eyes.”** ― Imam Ali 
+
+<br>
+
+
+**“Be gentle with human hearts, for when they are forced into something, they go blind.”** ― Imam Ali 
+
+
+<br>
+
  **"Except those who have faith, do good deeds, call each other to truth and call each other to patience."** - Quran 103:3
 
 <br>
 
+
+
+**“Shall I tell you who are the best among you? The best of you are those who when seen are a means of Allah being brought to mind.”** - Prophet Muhammad (SAW) in Al-Tirmidhi
+
+<br>
+
+
+**“Practice makes knowledge perfect.”** ― Imam Ali 
+
+<br>
 
 **"And He is with you wherever you are."** - Quran 57:4
 
@@ -24,7 +44,6 @@ date: 2025-05-20
 
 <br>
 
-**“Shall I tell you who are the best among you? The best of you are those who when seen are a means of Allah being brought to mind.”** - Prophet Muhammad (SAW) in Al-Tirmidhi
 
 
 <!-- **"verse"** - Reference -->
