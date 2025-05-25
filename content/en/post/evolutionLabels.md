@@ -129,7 +129,7 @@ There is a well known manuscipt known as the birmingham manuscript which has bee
 
 Minus the vowel sounds it's identical to todays Qurans.
 
-So, the Qurans preservation is a fact. However, in scientific language you could call this the 'theory of preservation' and it would mean exactly the same thing as if you said 'the **fact** of evolution.
+So, the Qurans preservation is a fact. However, in scientific language you could call this the 'theory of preservation' and it would mean exactly the same thing as if you said 'the **fact** of preservation'.
 
 In summary and I hope we're on the same page by now!
 
@@ -147,7 +147,7 @@ I almost hate it when people with influence within religious communities, be it 
 
 We really need to be more honest when we're talking about these issues because all someone needs to do is look outside of Islam to the works of scientists and then see that scientists are striving for truth while our leaders are covering up what scientists believe the truth to be.
 
-This for some Muslims can contribute to apostacy. How do I know? I was one of such people. When I was younger I left Islam because I looked into other religions and science and saw that science did not seem to care what I believed and seemed to be chasing, uncomprimisingly at the truth.
+This for some Muslims can contribute to apostacy. How do I know? I was one of such people. When I was younger I left Islam because I looked into other religions and science and saw that science did not seem to care what I believed and seemed to be chasing, uncomprimisingly the truth.
 
 Muslims used to be at the cutting edge of science. We used to be global leaders to the extent that if you wanted to write a scientific paper that could be read by the global community of scientists, you wrote it in Arabic!
 
@@ -179,11 +179,9 @@ Alternatively you can buy the ebook for £1.99 from the UK site, the prices will
 
 I'm giving 50% profits to charity: 25% Palestine and 25% to the Uyghur Muslims of Turkestan. A further 25% of profits will go towards other projects i'm working on that will raise more money for people in need.
 
-
-[*Twitter:* https://twitter.com/baigelbytes](https://twitter.com/BaigelBytes)
-
-[*IG:* https://www.instagram.com/baigelbytes1/](https://www.instagram.com/baigelbytes1/)
-
-[*Threads:* https://www.threads.net/@baigelbytes1](https://www.threads.net/@baigelbytes1)
-
 [*Gmail:* peopleofthebook601@gmail.com](peopleofthebook601@gmail.com)
+
+[*IG:* https://www.instagram.com/baigelbytes1/](https://www.instagram.com/peopleofthebook601/)
+
+[*Threads:* https://www.threads.net/@baigelbytes1](https://www.threads.net/@peopleofthebook601)
+

@@ -177,7 +177,7 @@ Ok, so this is the basic method which I will improve and refine over time. The g
 
 Right now I'm imagining if it might be possible to get to a stage one day where I can commit a verse to memory after reading it only once. We'll see.
 
-I will add progress updates to this blog from time to time but the most frequent updates will be in the github repos journal which I will try to update at least every few days.
+I will add progress updates to this blog from time to time but the most frequent updates will be in the journal which I will try to update at least every few days.
 
 If you like this method and want to give it a try feel free and you can copy the public folder to your own google drive so you can record your own journal as well. I'll leave the links below:
 
@@ -209,11 +209,9 @@ Alternatively you can buy the ebook for £1.99 from the UK site, the prices will
 
 I'm giving 50% profits to charity: 25% Palestine and 25% to the Uyghur Muslims of Turkestan. A further 25% of profits will go towards other projects i'm working on that will raise more money for people in need.
 
-
-[*Twitter:* https://twitter.com/baigelbytes](https://twitter.com/BaigelBytes)
-
-[*IG:* https://www.instagram.com/baigelbytes1/](https://www.instagram.com/baigelbytes1/)
-
-[*Threads:* https://www.threads.net/@baigelbytes1](https://www.threads.net/@baigelbytes1)
-
 [*Gmail:* peopleofthebook601@gmail.com](peopleofthebook601@gmail.com)
+
+[*IG:* https://www.instagram.com/baigelbytes1/](https://www.instagram.com/peopleofthebook601/)
+
+[*Threads:* https://www.threads.net/@baigelbytes1](https://www.threads.net/@peopleofthebook601)
+
