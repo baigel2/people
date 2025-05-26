@@ -1,6 +1,6 @@
 title = "People Of The Book"
 theme = "heyo-hugo-theme"
-baseURL = "/"
+baseURL = "https://peopleofthebook.co.uk"
 languageCode = "en"
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = false
