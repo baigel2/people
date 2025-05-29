@@ -1,14 +1,19 @@
 ---
-author: Author name
-title: example meta and post
-date: 2025-05-01
-tags: 
-    - adnan
-categories:
-    - baig
----
 
-In {{< theme >}} we can use the sidebar to display a Table of Contents!
+author: Adnan Baig 
+title: my meta example post
+date: 2025-04-25 
+description: Are the two sects really **that** different?
+tags: 
+    - Islam
+    - Shia vs Sunni
+categories:
+    - Religious divergence
+
+
+My metadata and the example post.
+
+---
 
 <!--more-->
 
@@ -63,4 +68,6 @@ If you get this deep you should probably restructure your document (jk).---
 
 ---
 
+
+---
 
