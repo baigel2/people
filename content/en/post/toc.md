@@ -1,12 +1,11 @@
 ---
-author: Lucas David Vadilho
-title: Table of Contents
-date: 2023-08-04
+author: Author name
+title: This is a title
+date: 2025-05-01
 tags: 
-    - theme
+    - adnan
 categories:
-    - heyo
-showToc: true
+    - baig
 ---
 
 In {{< theme >}} we can use the sidebar to display a Table of Contents!
