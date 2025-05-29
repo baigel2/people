@@ -15,7 +15,7 @@ In {{< theme >}} we can use the sidebar to display a Table of Contents!
 
 # Introduction
 
-adnan This post is a guide on how to display a Table of Contents in the sidebar.
+**adnan** This post is a guide on how to display a Table of Contents in the sidebar.
 
 this is going to be a paragraph. perhaps that is what it does not like.this is going to be a paragraph. perhaps that is what it does not like.this is going to be a paragraph. perhaps that is what it does not like.this is going to be a paragraph. perhaps that is what it does not like.this is going to be a paragraph. perhaps that is what it does not like.this is going to be a paragraph. perhaps that is what it does not like.
 
