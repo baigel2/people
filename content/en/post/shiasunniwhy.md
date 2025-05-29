@@ -85,7 +85,6 @@ Sahih Muslim Volume 2 Chapter 6 Pages 216 -218, Hadiths 1628-1633:
 
 Source: https://dn790008.ca.archive.org/0/items/SahihMuslimVol1Eng/Sahih%20Muslim%20Vol-2.pdf
 
-![Sahih Muslim](/images/combiningPrayers.png)
 
 I wondered, why did Sunni influencers I used to follow not talk about or ever even mention things like this? In fact, some of them even said the exact opposite. I remembered a video where one guy said if your prayer is one minute before or one miniute after the prescribed time it is not valid even if you read a thousand rakats.
 
