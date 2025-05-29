@@ -39,7 +39,7 @@ Everythings worked fine so far so I've no idea what it is. I might just remove a
 
 Does this image mess the scaling up?
 
-![Image test](/images/combiningPrayers.png)
+
 
 
 # How to use it
