@@ -11,11 +11,11 @@ tags:
 categories:
     - experiments
 badges:
-    github:
-        subject: GitHub
-        status: Check it on GitHub
-        icon: github
-        url: https://github.com/baigel2/5minutehifz
+    google:
+        subject: Google Drive
+        status: Google drive folder.
+        icon: Google
+        url: https://drive.google.com/drive/u/2/folders/1MxD9Dm6SYGsTXdnVrBTV0qstPYqqrQ9M
         color: grey
         label: ""
 
