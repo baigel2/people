@@ -1,6 +1,6 @@
 ---
 author: Lucas David Vadilho
-title: Table of Contents
+title: cable of Contents
 date: 2023-08-04
 tags: 
     - theme
@@ -17,7 +17,7 @@ In {{< theme >}} we can use the sidebar to display a Table of Contents!
 
 adnan This post is a guide on how to display a Table of Contents in the sidebar.
 
-this is going to be a paragraph. perhaps that is what it does not like.this is going to be a paragraph. perhaps that is what it does not like.this is going to be a paragraph. perhaps that is what it does not like.this is going to be a paragraph. perhaps that is what it does not like.this is going to be a paragraph. perhaps that is what it does not like.this is going to be a paragraph. perhaps that is what it does not like.
+
 
 
 It probably goes without saying, but the TOC is navigable.
