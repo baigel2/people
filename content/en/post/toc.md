@@ -15,7 +15,7 @@ In {{< theme >}} we can use the sidebar to display a Table of Contents!
 
 # Introduction
 
-This post is a guide on how to display a Table of Contents in the sidebar.
+adnan This post is a guide on how to display a Table of Contents in the sidebar.
 
 It probably goes without saying, but the TOC is navigable.
 
