@@ -181,7 +181,7 @@ I'm giving 50% profits to charity: 25% Palestine and 25% to the Uyghur Muslims o
 
 [*Gmail:* peopleofthebook601@gmail.com](peopleofthebook601@gmail.com)
 
-[*IG:* https://www.instagram.com/baigelbytes1/](https://www.instagram.com/peopleofthebook601/)
+[*IG:* https://www.instagram.com/peopleofthebook601/](https://www.instagram.com/peopleofthebook601/)
 
-[*Threads:* https://www.threads.net/@baigelbytes1](https://www.threads.net/@peopleofthebook601)
+[*Threads:* https://www.threads.net/@peopleofthebook601](https://www.threads.net/@peopleofthebook601)
 

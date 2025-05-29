@@ -2,61 +2,61 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on People Of The Book</title>
-    <link>//localhost:1313/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on People Of The Book</description>
     <generator>Hugo</generator>
     <language>en</language>
     <managingEditor>pob@aol.com (Adnan Baig)</managingEditor>
     <webMaster>pob@aol.com (Adnan Baig)</webMaster>
     <lastBuildDate>Sun, 25 May 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hafiz</title>
-      <link>//localhost:1313/tags/hafiz/</link>
+      <link>http://localhost:1313/tags/hafiz/</link>
       <pubDate>Sun, 25 May 2025 00:00:00 +0000</pubDate><author>pob@aol.com (Adnan Baig)</author>
-      <guid>//localhost:1313/tags/hafiz/</guid>
+      <guid>http://localhost:1313/tags/hafiz/</guid>
       <description></description>
     </item>
     <item>
       <title>Hifz</title>
-      <link>//localhost:1313/tags/hifz/</link>
+      <link>http://localhost:1313/tags/hifz/</link>
       <pubDate>Sun, 25 May 2025 00:00:00 +0000</pubDate><author>pob@aol.com (Adnan Baig)</author>
-      <guid>//localhost:1313/tags/hifz/</guid>
+      <guid>http://localhost:1313/tags/hifz/</guid>
       <description></description>
     </item>
     <item>
       <title>Islam</title>
-      <link>//localhost:1313/tags/islam/</link>
+      <link>http://localhost:1313/tags/islam/</link>
       <pubDate>Sun, 25 May 2025 00:00:00 +0000</pubDate><author>pob@aol.com (Adnan Baig)</author>
-      <guid>//localhost:1313/tags/islam/</guid>
+      <guid>http://localhost:1313/tags/islam/</guid>
       <description></description>
     </item>
     <item>
       <title>Memorisation</title>
-      <link>//localhost:1313/tags/memorisation/</link>
+      <link>http://localhost:1313/tags/memorisation/</link>
       <pubDate>Sun, 25 May 2025 00:00:00 +0000</pubDate><author>pob@aol.com (Adnan Baig)</author>
-      <guid>//localhost:1313/tags/memorisation/</guid>
+      <guid>http://localhost:1313/tags/memorisation/</guid>
       <description></description>
     </item>
     <item>
       <title>Quran</title>
-      <link>//localhost:1313/tags/quran/</link>
+      <link>http://localhost:1313/tags/quran/</link>
       <pubDate>Sun, 25 May 2025 00:00:00 +0000</pubDate><author>pob@aol.com (Adnan Baig)</author>
-      <guid>//localhost:1313/tags/quran/</guid>
+      <guid>http://localhost:1313/tags/quran/</guid>
       <description></description>
     </item>
     <item>
       <title>Religion vs Science</title>
-      <link>//localhost:1313/tags/religion-vs-science/</link>
+      <link>http://localhost:1313/tags/religion-vs-science/</link>
       <pubDate>Sun, 25 May 2025 00:00:00 +0000</pubDate><author>pob@aol.com (Adnan Baig)</author>
-      <guid>//localhost:1313/tags/religion-vs-science/</guid>
+      <guid>http://localhost:1313/tags/religion-vs-science/</guid>
       <description></description>
     </item>
     <item>
       <title>Shia vs Sunni</title>
-      <link>//localhost:1313/tags/shia-vs-sunni/</link>
+      <link>http://localhost:1313/tags/shia-vs-sunni/</link>
       <pubDate>Sun, 25 May 2025 00:00:00 +0000</pubDate><author>pob@aol.com (Adnan Baig)</author>
-      <guid>//localhost:1313/tags/shia-vs-sunni/</guid>
+      <guid>http://localhost:1313/tags/shia-vs-sunni/</guid>
       <description></description>
     </item>
   </channel>

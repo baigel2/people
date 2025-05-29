@@ -2,66 +2,66 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/post/hifz1/</loc>
+    <loc>http://localhost:1313/post/hifz1/</loc>
     <lastmod>2025-05-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
     <lastmod>2025-05-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/post/evolutionlabels/</loc>
+    <loc>http://localhost:1313/post/evolutionlabels/</loc>
     <lastmod>2025-05-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/categories/experiments/</loc>
+    <loc>http://localhost:1313/categories/experiments/</loc>
     <lastmod>2025-05-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/hafiz/</loc>
+    <loc>http://localhost:1313/tags/hafiz/</loc>
     <lastmod>2025-05-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/hifz/</loc>
+    <loc>http://localhost:1313/tags/hifz/</loc>
     <lastmod>2025-05-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/islam/</loc>
+    <loc>http://localhost:1313/tags/islam/</loc>
     <lastmod>2025-05-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/memorisation/</loc>
+    <loc>http://localhost:1313/tags/memorisation/</loc>
     <lastmod>2025-05-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2025-05-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/post/</loc>
+    <loc>http://localhost:1313/post/</loc>
     <lastmod>2025-05-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/quran/</loc>
+    <loc>http://localhost:1313/tags/quran/</loc>
     <lastmod>2025-05-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/categories/religion/</loc>
+    <loc>http://localhost:1313/categories/religion/</loc>
     <lastmod>2025-05-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/religion-vs-science/</loc>
+    <loc>http://localhost:1313/tags/religion-vs-science/</loc>
     <lastmod>2025-05-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/categories/religious-divergence/</loc>
+    <loc>http://localhost:1313/categories/religious-divergence/</loc>
     <lastmod>2025-05-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/categories/science/</loc>
+    <loc>http://localhost:1313/categories/science/</loc>
     <lastmod>2025-05-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/shia-vs-sunni/</loc>
+    <loc>http://localhost:1313/tags/shia-vs-sunni/</loc>
     <lastmod>2025-05-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/post/shiasunniwhy/</loc>
+    <loc>http://localhost:1313/post/shiasunniwhy/</loc>
     <lastmod>2025-05-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2025-05-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/about/</loc>
+    <loc>http://localhost:1313/about/</loc>
     <lastmod>2025-05-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/wisdom/</loc>
+    <loc>http://localhost:1313/wisdom/</loc>
     <lastmod>2025-05-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/series/</loc>
+    <loc>http://localhost:1313/series/</loc>
   </url>
 </urlset>

@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Islam on People Of The Book</title>
-    <link>//localhost:1313/tags/islam/</link>
+    <link>http://localhost:1313/tags/islam/</link>
     <description>Recent content in Islam on People Of The Book</description>
     <generator>Hugo</generator>
     <language>en</language>
     <managingEditor>pob@aol.com (Adnan Baig)</managingEditor>
     <webMaster>pob@aol.com (Adnan Baig)</webMaster>
     <lastBuildDate>Sun, 25 May 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/islam/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/islam/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Shia vs Sunni, why &#34;vs&#34;?</title>
-      <link>//localhost:1313/post/shiasunniwhy/</link>
+      <link>http://localhost:1313/post/shiasunniwhy/</link>
       <pubDate>Sun, 25 May 2025 00:00:00 +0000</pubDate><author>pob@aol.com (Adnan Baig)</author>
-      <guid>//localhost:1313/post/shiasunniwhy/</guid>
+      <guid>http://localhost:1313/post/shiasunniwhy/</guid>
       <description>&lt;p&gt;Born into a Sunni family, I&amp;rsquo;ve been learning about and exploring Shia Islam. Here are my thoughts so far.&lt;/p&gt;</description>
     </item>
   </channel>

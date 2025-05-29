@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Quran on People Of The Book</title>
-    <link>//localhost:1313/tags/quran/</link>
+    <link>http://localhost:1313/tags/quran/</link>
     <description>Recent content in Quran on People Of The Book</description>
     <generator>Hugo</generator>
     <language>en</language>
     <managingEditor>pob@aol.com (Adnan Baig)</managingEditor>
     <webMaster>pob@aol.com (Adnan Baig)</webMaster>
     <lastBuildDate>Sun, 25 May 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/quran/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/quran/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>5 Minute Hifz</title>
-      <link>//localhost:1313/post/hifz1/</link>
+      <link>http://localhost:1313/post/hifz1/</link>
       <pubDate>Sun, 25 May 2025 00:00:00 +0000</pubDate><author>pob@aol.com (Adnan Baig)</author>
-      <guid>//localhost:1313/post/hifz1/</guid>
+      <guid>http://localhost:1313/post/hifz1/</guid>
       <description>&lt;p&gt;A first principles approach to Quran memorisation. For peoople who want to be Hafeez or learn some Quran but can&amp;rsquo;t find the time.&lt;/p&gt;</description>
     </item>
   </channel>
