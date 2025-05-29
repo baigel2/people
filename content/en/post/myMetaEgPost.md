@@ -2,7 +2,7 @@
 
 author: Adnan Baig 
 title: my meta example post
-date: 2025-04-25 
+date: 2025-05-01 
 description: Are the two sects really **that** different?
 tags: 
     - Islam
