@@ -11,6 +11,16 @@ date: 2025-05-20
 
 <br>
 
+**"Remember that this world which you covet so ardently and attempt to acquire so earnestly, and which sometimes annoys you and sometimes pleases you so much, is neither your home nor a permanent destination. You have not been created for it, nor invited to it as your resting-place."** - Imam Ali (AS)
+
+<br>
+
+**"People are of two types, they are either your brothers in faith or your equals in humanity."** - Imam Ali
+
+
+
+<br>
+
 **“What you hide in your heart, appears in your eyes.”** ― Imam Ali 
 
 <br>
