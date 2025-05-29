@@ -1,3 +1,10 @@
+html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+}
+
+
+
 /* Ensure the text wraps instead of overflowing */
 body {
 	    word-wrap: break-word;
@@ -6,7 +13,7 @@ body {
 
 	/* Set a responsive font size */
 	body {
-		    font-size: 1.2rem;
+		    font-size: min(4vw, 1.2rem);
 	    }
 
 	    /* Make sure containers adjust dynamically */
