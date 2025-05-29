@@ -59,6 +59,3 @@ console.info("Hello from my-js.js");
 ```
 
 You should see `Hello from my-js.js` and `Hi Sven?` in the DevTools' (<kbd><kbd>CTRL</kbd>+<kbd>SHIFT</kbd>+<kbd>I</kbd></kbd>) console.
----
----
-
