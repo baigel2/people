@@ -23,7 +23,7 @@ pagination.PagerSize = 10
 
 [params]
     title = "People Of The Book"
-    description = "A blog about Islam and related topics."
+    description = "Contravertial topics, age old wisdom and a whole lot more coming soon!"
     profilePicture = "images/colouredQuran.png"
     favicon = "favicons/"
     customCss = ['/assets/css/textSize.css']
