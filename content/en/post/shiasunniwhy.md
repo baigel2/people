@@ -49,7 +49,20 @@ I'm not here to win. I'm here to learn and I think if people had conversations i
 
 # The religion of my forefathers.
 
-One of the common themes we hear about in the Quran when Allah speaks about non believers is how they used to reject Islam not because they believed it to be false but because it was not the religion of their fathers and forefathers. Another example I find amusing is just before the time of the Prophet PBUH when the Jews and Chrisians used to boast to the pagan arabs that 'their' prophet would soon be coming to this area and then, led by him they would ruin the pagans, but then when they saw that Prophet rise from among the pagans themselves (though obviously not being pagan himself) they rejected him.
+One of the common themes we hear about in the Quran when Allah speaks about non believers is how they used to reject Islam not because they believed it to be false but because it was not the religion of their fathers and forefathers. We can see examples of this given by Allah in the Quran like in Surah Al-Ma'idah verse 104 when He says:
+
+<br>
+
+> **"When it is said to them, “Come to Allah’s revelations and to the Messenger,” they reply, “What we found our forefathers practicing is good enough for us.” Would they still do so, even if their forefathers had absolutely no knowledge or guidance?"** - Quran 5:104
+
+
+<br>
+
+[Source: Quran.com](https://quran.com/al-maidah/104)
+
+
+
+Another example I find amusing is just before the time of the Prophet PBUH when the Jews and Chrisians used to boast to the pagan arabs that 'their' prophet would soon be coming to this area and then, led by him they would ruin the pagans, but then when they saw that Prophet rise from among the pagans themselves (though obviously not being pagan himself) they rejected him.
 
 We Muslims like to think that we are beyond this behaviour. That we would not think about ourselves or others like this.
 
