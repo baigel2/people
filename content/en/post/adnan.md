@@ -1,15 +1,15 @@
 ---
-author: Mirza Baig
+author: Mirza Adnan Biag
 title: Adnan
-date: 2025-08-04
+date: 2025-05-04
 tags: 
     - theme
 categories:
     - heyo
-
+showToc: true
 ---
 
-this is a line of text
+In {{< theme >}} we can use the sidebar to display a Table of Contents!
 
 <!--more-->
 
