@@ -8,24 +8,7 @@ tags:
     - Shia vs Sunni
 categories:
     - Religious divergence
-#badges:
-#    github:
-#        subject: GitHub
-#        status: Check it on GitHub
-#        icon: github
-#        url: https://github.com/baigel2/5minutehifz
-#        color: grey
- #       label: ""
 
-#    template:
-#        flat: false
-#        subject: subject
-#        status: status
-#        label: label
-#        color: 000
- #       label_color: pink
- #       icon: awesome
-  #      url: https://badgen.net/
 
 ---
 
