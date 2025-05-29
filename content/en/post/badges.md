@@ -8,36 +8,36 @@ tags:
     - shortcodes
 categories:
     - heyo
-badges:
-    github:
-        subject: GitHub
-        status: Check it on GitHub
-        icon: github
-        url: https://github.com/LucasVadilho/heyo-hugo-theme
-        color: grey
-        label: ""
-    colab:
-        subject: Colab
-        status: Run it on Google Colab
-        label: ""
-        color: orange
-        icon: https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg
-        url: https://colab.research.google.com/github/GoogleCloudPlatform/vertex-ai-samples/blob/main/notebooks/official/model_monitoring/model_monitoring.ipynb
-    kofi:
-        subject: kofi
-        status: Buy me a coffee ❤️
-        icon: kofi
-        label: ""
-        url: https://ko-fi.com/oioipio
-    template:
-        flat: false
-        subject: subject
-        status: status
-        label: label
-        color: 000
-        label_color: pink
-        icon: awesome
-        url: https://badgen.net/
+# badges:
+#    github:
+#        subject: GitHub
+#        status: Check it on GitHub
+#        icon: github
+#        url: https://github.com/LucasVadilho/heyo-hugo-theme
+#        color: grey
+#        label: ""
+#    colab:
+ #       subject: Colab
+ #       status: Run it on Google Colab
+ #       label: ""
+ #       color: orange
+ #       icon: https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg
+ #       url: https://colab.research.google.com/github/GoogleCloudPlatform/vertex-ai-samples/blob/main/notebooks/official/model_monitoring/model_monitoring.ipynb
+ #   kofi:
+ #       subject: kofi
+  #      status: Buy me a coffee ❤️
+  #      icon: kofi
+   #     label: ""
+   #     url: https://ko-fi.com/oioipio
+   # template:
+ #       flat: false
+ #       subject: subject
+  #      status: status
+  #      label: label
+  #      color: 000
+  #      label_color: pink
+   #     icon: awesome
+   #     url: https://badgen.net/
 ---
 
 This article will show you how to add and customize badges in your posts.
