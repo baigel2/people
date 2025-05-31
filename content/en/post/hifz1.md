@@ -93,9 +93,7 @@ So, that's the concept. Next I needed to design a way to test it. That's where t
 
 But don't worry, it's not a program I'm going to hide behind a paywall or subscription service, I'm not an internet guru.
 
-In fact I'm still in the process of figuring out the full method and I will keep track of it in a google drive folder which I will link to [here](https://drive.google.com/drive/
-
-folders/1MxD9Dm6SYGsTXdnVrBTV0qstPYqqrQ9M?usp=sharing).
+In fact I'm still in the process of figuring out the full method and I will keep track of it in a google drive folder which I will link to [here](https://drive.google.com/drive/folders/1MxD9Dm6SYGsTXdnVrBTV0qstPYqqrQ9M?usp=sharing).
 
 So, finally...
 
@@ -151,9 +149,7 @@ Along with memorising it will also be important for participants to record their
 
 To this end, it would be best I think, to keep the journaling methods as simple as possible.
 
-My journal is available in my google drive folder which you can access [here](https://drive.google.com
-
-/drive/folders/1MxD9Dm6SYGsTXdnVrBTV0qstPYqqrQ9M?usp=sharing).
+My journal is available in my google drive folder which you can access [here](https://drive.google.com/drive/folders/1MxD9Dm6SYGsTXdnVrBTV0qstPYqqrQ9M?usp=sharing).
 
 
 <br>
@@ -173,11 +169,9 @@ If you like this method and want to give it a try feel free and you can copy the
 
 My google drive folder: (where I will record my progress).
 
-[https://drive.google.com/drive/folders/1MxD9Dm6SYGsTXdnVrBTV0qstPYqqrQ9M?usp=sharing](https://drive.google.com/drive/folders/1MxD9Dm6SYGsTXdnVrBTV0qstPYqqrQ9M?usp=sharing)
 
 The Public folder that you can copy to your own google drive: (so you can do this experiment yourself).
 
-[https://drive.google.com/drive/folders/1t9KQLIoiafLMOW9bX0dVf3dbTZO2hSHH?usp=sharing](https://drive.google.com/drive/folders/1t9KQLIoiafLMOW9bX0dVf3dbTZO2hSHH?usp=sharing)
 
 If you right click on the public folder there should be an option to copy to your google drive.
 
