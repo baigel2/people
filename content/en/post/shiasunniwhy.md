@@ -23,11 +23,6 @@ The objective of each side? To win.
 
 I'm not here to win. I'm here to learn and I think if people had conversations instead of debates aiming to learn instead of win, we would make a lot more progress in much shorter spans of time.
 
-<br>
-
----
-
-<br>
 
 # The religion of my forefathers.
 
@@ -36,7 +31,6 @@ One of the common themes we hear about in the Quran when Allah speaks about non 
 <br>
 
 > **"When it is said to them, “Come to Allah’s revelations and to the Messenger,” they reply, “What we found our forefathers practicing is good enough for us.” Would they still do so, even if their forefathers had absolutely no knowledge or guidance?"** - Quran 5:104
-
 
 <br>
 
@@ -82,7 +76,6 @@ References from sunni literature allowing the combination of prayers:
 
 Sahih Muslim Volume 2 Chapter 6 Pages 216 -218, Hadiths 1628-1633:
 
-Source: https://dn790008.ca.archive.org/0/items/SahihMuslimVol1Eng/Sahih%20Muslim%20Vol-2.pdf
 
 
 I wondered, why did Sunni influencers I used to follow not talk about or ever even mention things like this? In fact, some of them even said the exact opposite. I remembered a video where one guy said if your prayer is one minute before or one miniute after the prescribed time it is not valid even if you read a thousand rakats.
