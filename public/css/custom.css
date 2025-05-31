@@ -15,12 +15,26 @@ body, p, li {
 		      display: inline-block;    /* Allows links to break across lines if needed,
 		                                      while still behaving somewhat inline.
 						                                      If problems persist, try 'display: block;' */
-  max-width: 100%;          /* Ensures links don't go wider than their container */
+  max-width: 100%;          /* Ensures links don't stretch beyond their container */
   }
 
-  /* Ensure all images are responsive and don't cause overflow */
-  img {
-	    max-width: 100%; /* Ensures images (like the Quran picture) fit within their container */
-	      height: auto;    /* Maintains aspect ratio */
-	        display: block;  /* Helps prevent extra space below images and makes them behave predictably */
-	}
+  /* --- NEW CRUCIAL FIX FOR THE <div class="main"> CONTAINER --- */
+  /* This rule specifically targets the main content area and forces it to wrap. */
+  .main {
+	    word-wrap: break-word;    /* Apply wrapping to the main container's content */
+	      overflow-wrap: break-word; /* Modern syntax for the main container's content */
+	        white-space: normal !important; /* Forces content to wrap within this div,
+		                                    !important is used here to override theme styles */
+  max-width: 100% !important; /* Ensure the main div doesn't go wider than screen.
+                                   !important to override theme's potential fixed width */
+  box-sizing: border-box;   /* Ensures padding and border are included in width calculation */
+    overflow-x: hidden;       /* A safety net: hides any remaining horizontal scrollbar
+                                    if content still tries to overflow beyond this point */
+}
+
+/* Ensure all images are responsive and don't cause overflow */
+img {
+	  max-width: 100%; /* Ensures images (like the Quran picture) fit within their container */
+	    height: auto;    /* Maintains aspect ratio */
+	      display: block;  /* Helps prevent extra space below images and makes them behave predictably */
+      }
