@@ -10,22 +10,6 @@ tags:
     - Hafiz
 categories:
     - experiments
-badges:
-    google:
-        subject: Google Drive
-        status: Google drive folder.
-        icon: Google
-        color: grey
-        label: ""
-#    template:
-#        flat: false
-#        subject: subject
-#        status: status
-#        label: label
-#        color: 000
- #       label_color: pink
- #       icon: awesome
-  #      url: https://badgen.net/
 
 ---
 
@@ -36,8 +20,6 @@ A first principles approach to Quran memorisation. For peoople who want to be Ha
 
 
 
-url: https://drive.google.com/drive/
-/2/folders/1MxD9Dm6SYGsTXdnVrBTV0qstPYqqrQ9M
 
 
 # The Scenario:
@@ -111,7 +93,8 @@ So, that's the concept. Next I needed to design a way to test it. That's where t
 
 But don't worry, it's not a program I'm going to hide behind a paywall or subscription service, I'm not an internet guru.
 
-In fact I'm still in the process of figuring out the full method and I will keep track of it in a google drive folder which I will link to [here](https://drive.google.com/drive/folders/1MxD9Dm6SYGsTXdnVrBTV0qstPYqqrQ9M?usp=sharing).
+In fact I'm still in the process of figuring out the full method and I will keep track of it in a google drive folder which I will link to [here](https://drive.google.com/drive/
+folders/1MxD9Dm6SYGsTXdnVrBTV0qstPYqqrQ9M?usp=sharing).
 
 So, finally...
 
@@ -167,7 +150,8 @@ Along with memorising it will also be important for participants to record their
 
 To this end, it would be best I think, to keep the journaling methods as simple as possible.
 
-My journal is available in my google drive folder which you can access [here](https://drive.google.com/drive/folders/1MxD9Dm6SYGsTXdnVrBTV0qstPYqqrQ9M?usp=sharing).
+My journal is available in my google drive folder which you can access [here](https://drive.google.com
+/drive/folders/1MxD9Dm6SYGsTXdnVrBTV0qstPYqqrQ9M?usp=sharing).
 
 
 <br>
