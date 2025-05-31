@@ -2,61 +2,61 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on People Of The Book</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://peopleofthebook.co.uk/tags/</link>
     <description>Recent content in Tags on People Of The Book</description>
     <generator>Hugo</generator>
     <language>en</language>
     <managingEditor>peopleofthebook601@gmail.com (Adnan Baig)</managingEditor>
     <webMaster>peopleofthebook601@gmail.com (Adnan Baig)</webMaster>
     <lastBuildDate>Sun, 25 May 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://peopleofthebook.co.uk/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hafiz</title>
-      <link>http://localhost:1313/tags/hafiz/</link>
+      <link>https://peopleofthebook.co.uk/tags/hafiz/</link>
       <pubDate>Sun, 25 May 2025 00:00:00 +0000</pubDate><author>peopleofthebook601@gmail.com (Adnan Baig)</author>
-      <guid>http://localhost:1313/tags/hafiz/</guid>
+      <guid>https://peopleofthebook.co.uk/tags/hafiz/</guid>
       <description></description>
     </item>
     <item>
       <title>Hifz</title>
-      <link>http://localhost:1313/tags/hifz/</link>
+      <link>https://peopleofthebook.co.uk/tags/hifz/</link>
       <pubDate>Sun, 25 May 2025 00:00:00 +0000</pubDate><author>peopleofthebook601@gmail.com (Adnan Baig)</author>
-      <guid>http://localhost:1313/tags/hifz/</guid>
+      <guid>https://peopleofthebook.co.uk/tags/hifz/</guid>
       <description></description>
     </item>
     <item>
       <title>Islam</title>
-      <link>http://localhost:1313/tags/islam/</link>
+      <link>https://peopleofthebook.co.uk/tags/islam/</link>
       <pubDate>Sun, 25 May 2025 00:00:00 +0000</pubDate><author>peopleofthebook601@gmail.com (Adnan Baig)</author>
-      <guid>http://localhost:1313/tags/islam/</guid>
+      <guid>https://peopleofthebook.co.uk/tags/islam/</guid>
       <description></description>
     </item>
     <item>
       <title>Memorisation</title>
-      <link>http://localhost:1313/tags/memorisation/</link>
+      <link>https://peopleofthebook.co.uk/tags/memorisation/</link>
       <pubDate>Sun, 25 May 2025 00:00:00 +0000</pubDate><author>peopleofthebook601@gmail.com (Adnan Baig)</author>
-      <guid>http://localhost:1313/tags/memorisation/</guid>
+      <guid>https://peopleofthebook.co.uk/tags/memorisation/</guid>
       <description></description>
     </item>
     <item>
       <title>Quran</title>
-      <link>http://localhost:1313/tags/quran/</link>
+      <link>https://peopleofthebook.co.uk/tags/quran/</link>
       <pubDate>Sun, 25 May 2025 00:00:00 +0000</pubDate><author>peopleofthebook601@gmail.com (Adnan Baig)</author>
-      <guid>http://localhost:1313/tags/quran/</guid>
+      <guid>https://peopleofthebook.co.uk/tags/quran/</guid>
       <description></description>
     </item>
     <item>
       <title>Religion vs Science</title>
-      <link>http://localhost:1313/tags/religion-vs-science/</link>
+      <link>https://peopleofthebook.co.uk/tags/religion-vs-science/</link>
       <pubDate>Sun, 25 May 2025 00:00:00 +0000</pubDate><author>peopleofthebook601@gmail.com (Adnan Baig)</author>
-      <guid>http://localhost:1313/tags/religion-vs-science/</guid>
+      <guid>https://peopleofthebook.co.uk/tags/religion-vs-science/</guid>
       <description></description>
     </item>
     <item>
       <title>Shia vs Sunni</title>
-      <link>http://localhost:1313/tags/shia-vs-sunni/</link>
+      <link>https://peopleofthebook.co.uk/tags/shia-vs-sunni/</link>
       <pubDate>Sun, 25 May 2025 00:00:00 +0000</pubDate><author>peopleofthebook601@gmail.com (Adnan Baig)</author>
-      <guid>http://localhost:1313/tags/shia-vs-sunni/</guid>
+      <guid>https://peopleofthebook.co.uk/tags/shia-vs-sunni/</guid>
       <description></description>
     </item>
   </channel>

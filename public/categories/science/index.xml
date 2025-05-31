@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Science on People Of The Book</title>
-    <link>http://localhost:1313/categories/science/</link>
+    <link>https://peopleofthebook.co.uk/categories/science/</link>
     <description>Recent content in Science on People Of The Book</description>
     <generator>Hugo</generator>
     <language>en</language>
     <managingEditor>peopleofthebook601@gmail.com (Adnan Baig)</managingEditor>
     <webMaster>peopleofthebook601@gmail.com (Adnan Baig)</webMaster>
     <lastBuildDate>Sun, 25 May 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/science/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://peopleofthebook.co.uk/categories/science/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Evolution, theory or hypothesis?</title>
-      <link>http://localhost:1313/post/evolutionlabels/</link>
+      <link>https://peopleofthebook.co.uk/post/evolutionlabels/</link>
       <pubDate>Sun, 25 May 2025 00:00:00 +0000</pubDate><author>peopleofthebook601@gmail.com (Adnan Baig)</author>
-      <guid>http://localhost:1313/post/evolutionlabels/</guid>
+      <guid>https://peopleofthebook.co.uk/post/evolutionlabels/</guid>
       <description>&lt;p&gt;The importance of understanding basic scientific language in context.&lt;/p&gt;</description>
     </item>
   </channel>

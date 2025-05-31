@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Series on People Of The Book</title>
-    <link>http://localhost:1313/series/</link>
+    <link>https://peopleofthebook.co.uk/series/</link>
     <description>Recent content in Series on People Of The Book</description>
     <generator>Hugo</generator>
     <language>en</language>
     <managingEditor>peopleofthebook601@gmail.com (Adnan Baig)</managingEditor>
     <webMaster>peopleofthebook601@gmail.com (Adnan Baig)</webMaster>
-    <atom:link href="http://localhost:1313/series/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://peopleofthebook.co.uk/series/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
