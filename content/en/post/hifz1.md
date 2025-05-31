@@ -15,7 +15,6 @@ badges:
         subject: Google Drive
         status: Google drive folder.
         icon: Google
-        url: https://drive.google.com/drive/u/2/folders/1MxD9Dm6SYGsTXdnVrBTV0qstPYqqrQ9M
         color: grey
         label: ""
 #    template:
@@ -34,6 +33,11 @@ A first principles approach to Quran memorisation. For peoople who want to be Ha
 
 
 <!--more-->
+
+
+
+url: https://drive.google.com/drive/
+/2/folders/1MxD9Dm6SYGsTXdnVrBTV0qstPYqqrQ9M
 
 
 # The Scenario:
