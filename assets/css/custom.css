@@ -1,0 +1,6 @@
+/* This targets all paragraphs, list items, and anchor (link) tags within your main content.
+   You might also want to include 'div' if your content is within a generic div. */
+body, p, li, a {
+  word-wrap: break-word;    /* Old syntax for compatibility */
+  overflow-wrap: break-word; /* Modern and preferred syntax */
+}
