@@ -18,7 +18,6 @@ badges:
         url: https://drive.google.com/drive/u/2/folders/1MxD9Dm6SYGsTXdnVrBTV0qstPYqqrQ9M
         color: grey
         label: ""
-
 #    template:
 #        flat: false
 #        subject: subject

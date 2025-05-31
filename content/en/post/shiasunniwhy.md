@@ -9,7 +9,6 @@ tags:
 categories:
     - Religious divergence
 
-
 ---
 
 Born into a Sunni family, I've been learning about and exploring Shia Islam. Here are my thoughts so far.
