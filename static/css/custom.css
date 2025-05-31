@@ -1,6 +1,26 @@
-/* This targets all paragraphs, list items, and anchor (link) tags within your main content.
-   You might also want to include 'div' if your content is within a generic div. */
-body, p, li, a {
-  word-wrap: break-word;    /* Old syntax for compatibility */
-  overflow-wrap: break-word; /* Modern and preferred syntax */
-}
+/* Custom CSS for your site */
+
+/* General text wrapping for body, paragraphs, and list items */
+body, p, li {
+	  word-wrap: break-word;    /* Old syntax for compatibility */
+	    overflow-wrap: break-word; /* Modern and preferred syntax */
+	      white-space: normal;      /* Explicitly ensure wrapping for general text */
+      }
+
+      /* Specific and more forceful wrapping for anchor (link) tags */
+      a {
+	        word-wrap: break-word;    /* Ensure wrapping for words within links */
+		  overflow-wrap: break-word; /* Modern syntax for links */
+		    white-space: normal;      /* CRUCIAL: Explicitly allow links to wrap */
+		      display: inline-block;    /* Allows links to break across lines if needed,
+		                                      while still behaving somewhat inline.
+						                                      If problems persist, try 'display: block;' */
+  max-width: 100%;          /* Ensures links don't go wider than their container */
+  }
+
+  /* Ensure all images are responsive and don't cause overflow */
+  img {
+	    max-width: 100%; /* Ensures images (like the Quran picture) fit within their container */
+	      height: auto;    /* Maintains aspect ratio */
+	        display: block;  /* Helps prevent extra space below images and makes them behave predictably */
+	}
