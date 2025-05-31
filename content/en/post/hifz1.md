@@ -19,8 +19,7 @@ A first principles approach to Quran memorisation. For peoople who want to be Ha
 <!--more-->
 
 
-https://drive.google.com/drive/folders/1MxD9Dm6SYGsTXdnVrBTV0qstPYqqrQ9M?usp=sharing
-
+https://rb.gy/2ikjzs
 
 # The Scenario:
 
