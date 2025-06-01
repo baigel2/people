@@ -11,6 +11,18 @@ date: 2025-05-20
 
 <br>
 
+
+**“He who does not thank people does not thank Allah.”** - Prophet Muhammad (PBUH) from Al-Tirmidhi
+
+
+<br>
+
+
+**“Love of this world and love of the next world can never reside in the heart of a believer simultaneously, just as fire and water cannot be contained in a single vessel at the same time.”** - Isa (AS) from Ibn Kathir
+
+
+<br>
+
 **"Remember that this world which you covet so ardently and attempt to acquire so earnestly, and which sometimes annoys you and sometimes pleases you so much, is neither your home nor a permanent destination. You have not been created for it, nor invited to it as your resting-place."** - Imam Ali (AS)
 
 <br>
