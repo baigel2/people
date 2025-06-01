@@ -80,7 +80,7 @@ If we make an exception for humans then is there really anything wrong with it?
 Off course, I'm talking about the science and not the way that it is used against religion. That obviously is not ok.
 
 
-# It's "just a theory". Understanding scientific language.
+# It's "just a theory". Why it's crucial to understand scientific language before disagreeing with it.
 
 Whether or not Muslims and atheist scientists agree on evolution or other matters in science I think it is extremely important that we fully understand what we're dissagreing with.
 
@@ -139,15 +139,6 @@ In summary and I hope we're on the same page by now!
 So when a scientist uses the word theory, they are implying and understand it to mean a fact, not simply an idea.
 
 Now we can dissagree with the scientist and state our reasons for why we don't believe evolution to be a fact, but we should not commit such a basic linguistic error as to confuse fact with hypothesis because then we volunterily make ourselves a laughing stock for the people we are dissagreing with.
-
-
-# Why it's important to understand scientific language.
-
-I almost hate it when people with influence within religious communities, be it by accident or more likely on purpose mix up things like theory vs hypothesis.
-
-We really need to be more honest when we're talking about these issues because all someone needs to do is look outside of Islam to the works of scientists and then see that scientists are striving for truth while our leaders are covering up what scientists believe the truth to be.
-
-This for some Muslims can contribute to apostacy. How do I know? I was one of such people. When I was younger I left Islam because I looked into other religions and science and saw that science did not seem to care what I believed and seemed to be chasing, uncomprimisingly the truth.
 
 Muslims used to be at the cutting edge of science. We used to be global leaders to the extent that if you wanted to write a scientific paper that could be read by the global community of scientists, you wrote it in Arabic!
 
