@@ -19,7 +19,6 @@ A first principles approach to Quran memorisation. For peoople who want to be Ha
 <!--more-->
 
 
-[Google drive link](https://rb.gy/2ikjzs)
 
 # The Scenario:
 
@@ -92,7 +91,11 @@ So, that's the concept. Next I needed to design a way to test it. That's where t
 
 But don't worry, it's not a program I'm going to hide behind a paywall or subscription service, I'm not an internet guru.
 
-In fact I'm still in the process of figuring out the full method and I will keep track of it in a google drive folder which I will link to [here](https://drive.google.com/drive/folders/1MxD9Dm6SYGsTXdnVrBTV0qstPYqqrQ9M?usp=sharing).
+In fact I'm still in the process of figuring out the full method and I will keep track of it in a google drive folder which I will link to [here](https://rb.gy/2ikjzs).
+
+
+
+
 
 So, finally...
 
@@ -148,7 +151,10 @@ Along with memorising it will also be important for participants to record their
 
 To this end, it would be best I think, to keep the journaling methods as simple as possible.
 
-My journal is available in my google drive folder which you can access [here](https://drive.google.com/drive/folders/1MxD9Dm6SYGsTXdnVrBTV0qstPYqqrQ9M?usp=sharing).
+My journal is available in my google drive folder which you can access [here](https://rb.gy/hziorq).
+
+
+
 
 
 <br>
@@ -168,11 +174,20 @@ If you like this method and want to give it a try feel free and you can copy the
 
 My google drive folder: (where I will record my progress).
 
+[Google drive link](https://rb.gy/2ikjzs)
+
 
 The Public folder that you can copy to your own google drive: (so you can do this experiment yourself).
 
+[Public Folder](https://rb.gy/j3yo18)
+
 
 If you right click on the public folder there should be an option to copy to your google drive.
+
+
+
+
+
 
 
 <br>
