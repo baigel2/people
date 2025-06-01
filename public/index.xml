@@ -45,5 +45,12 @@
       <guid>https://peopleofthebook.co.uk/wisdom/</guid>
       <description>&lt;br&gt;&#xA;&lt;h5 id=&#34;quotes-from-holy-books-religious-literature-and-figures-throught-history&#34;&gt;Quotes from Holy Books, religious literature and figures throught history.&lt;/h5&gt;&#xA;&lt;br&gt;&#xA;&lt;p&gt;&lt;strong&gt;“He who does not thank people does not thank Allah.”&lt;/strong&gt; - Prophet Muhammad (PBUH) from Al-Tirmidhi&lt;/p&gt;&#xA;&lt;br&gt;&#xA;&lt;p&gt;&lt;strong&gt;“Love of this world and love of the next world can never reside in the heart of a believer simultaneously, just as fire and water cannot be contained in a single vessel at the same time.”&lt;/strong&gt; - Isa (AS) from Ibn Kathir&lt;/p&gt;&#xA;&lt;br&gt;&#xA;&lt;p&gt;&lt;strong&gt;&amp;ldquo;Remember that this world which you covet so ardently and attempt to acquire so earnestly, and which sometimes annoys you and sometimes pleases you so much, is neither your home nor a permanent destination. You have not been created for it, nor invited to it as your resting-place.&amp;rdquo;&lt;/strong&gt; - Imam Ali (AS)&lt;/p&gt;</description>
     </item>
+    <item>
+      <title>Custom JavaScript and CSS</title>
+      <link>https://peopleofthebook.co.uk/post/custom/</link>
+      <pubDate>Mon, 11 Dec 2023 00:00:00 +0000</pubDate><author>peopleofthebook601@gmail.com (Adnan Baig)</author>
+      <guid>https://peopleofthebook.co.uk/post/custom/</guid>
+      <description>&lt;p&gt;With custom CSS and JavaScript you can change pretty much anything in &lt;a href=&#34;https://github.com/LucasVadilho/heyo-hugo-theme&#34;&gt;heyo&lt;/a&gt; appearance or functionality, and it&amp;rsquo;s pretty simple, too!&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
