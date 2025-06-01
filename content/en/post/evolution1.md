@@ -80,7 +80,9 @@ If we make an exception for humans then is there really anything wrong with it?
 Off course, I'm talking about the science and not the way that it is used against religion. That obviously is not ok.
 
 
-# It's "just a theory". Why it's crucial to understand scientific language before disagreeing with it.
+# It's "just a theory".
+
+## Why it's crucial to understand scientific language before disagreeing with it.
 
 Whether or not Muslims and atheist scientists agree on evolution or other matters in science I think it is extremely important that we fully understand what we're dissagreing with.
 
