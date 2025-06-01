@@ -76,7 +76,7 @@ References from sunni literature allowing the combination of prayers:
 
 Sahih Muslim Volume 2 Chapter 6 Pages 216 -218, Hadiths 1628-1633:
 
-![Combining Prayers reference](https://github.com/baigel2/people.git/combiningPrayers.png)
+![Combining Prayers reference](/images/combiningPrayers.png)
 
 
 I wondered, why did Sunni influencers I used to follow not talk about or ever even mention things like this? In fact, some of them even said the exact opposite. I remembered a video where one guy said if your prayer is one minute before or one miniute after the prescribed time it is not valid even if you read a thousand rakats.
