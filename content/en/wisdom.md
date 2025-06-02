@@ -9,6 +9,33 @@ date: 2025-05-20
 
 ##### Quotes from Holy Books, religious literature and figures throught history.
 
+
+
+<br>
+
+
+**"A scholar whose knowledge benefits others is better than seventy thousand worshippers."** - Kitab Al-Kafi
+
+
+<br>
+
+
+**"The most perfect of all perfection is a good understanding of religion, exercising patience during affliction and setting up of means of living."** - Kitab Al Kafi
+
+
+<br>
+
+**"Seeking knowledge is obligatory for every Muslim. Let it be known that Allah loves those who seek knowledge."** - Kitab Al Kafi
+
+<br>
+
+**“Read, in the Name of your Lord who created, created man from a clot, Read, and your Lord is the Most Gracious, Who taught with the pen, taught man what he did not know.”** - Qur’an 96:1-5
+
+
+<br>
+
+**I heard the Prophet SAW saying, “Mary, the daughter of Imran, was the best among the women (of the world of her time) and Khadijah is the best amongst the women (of this nation).”** Narrated by Ali (AS) in Sahih Al-Bukhari – Book 58 Hadith 164
+
 <br>
 
 
