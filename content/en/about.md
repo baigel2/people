@@ -21,7 +21,7 @@ In this blog you will see posts about Shia Islam and Sunni Islam as well as any 
 
 For instance, I'm developing a personal method to make memorising the Quran easier for people who aren't trying to become Imams or Scholars and who don't have the hours a day often nessasary to follow more traditional Hifz methods.
 
-You can read about it [here](post/5minutehifz)
+You can read about it [here](https://peopleofthebook.co.uk/post/hifz1/)
 
 
 
