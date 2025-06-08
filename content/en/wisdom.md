@@ -11,6 +11,9 @@ date: 2025-05-20
 
 <br>
 
+**“Those who are merciful will be shown mercy by the Most Merciful. Be merciful to those on the earth and the One in the heavens will have mercy upon you.”** - Prophet Muhammad PBUH from Tirmidi
+
+
 <br>
 
 **"And We certainly sent into every nation a messenger, [saying]: 'Worship Allah and avoid false deities."** - Quran 16:36
