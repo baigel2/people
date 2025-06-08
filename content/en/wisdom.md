@@ -13,7 +13,7 @@ date: 2025-05-20
 
 <br>
 
-**
+**"And We certainly sent into every nation a messenger, [saying]: 'Worship Allah and avoid false deities."** - Quran
 
 <br>
 
