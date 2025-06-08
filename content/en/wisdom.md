@@ -9,6 +9,17 @@ date: 2025-05-20
 
 ##### Quotes from Holy Books, religious literature and figures throught history.
 
+<br>
+
+
+<br>
+
+**"Indeed, Allah is my Lord and your Lord, so worship Him. That is the straight path."** - Quran 3:51
+
+
+<br>
+
+**"And hold firmly to the rope of Allah all together and do not become divided."** - Quran 3:103
 
 
 <br>
