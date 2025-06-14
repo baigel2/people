@@ -11,6 +11,11 @@ date: 2025-05-20
 
 <br>
 
+**"I will be patient until even patience tires of my patience."** - Imam Ali (AS)
+
+<br>
+
+
 **"When a person dies, then all his deeds come to an end except for three: 1 – A continuous charity. 2 – Knowledge left behind that continues to benefit. 3 – A righteous child who prays for him."** - Prophet Muhammad PBUH from Sahih Muslim
 
 
