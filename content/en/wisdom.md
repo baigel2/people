@@ -15,6 +15,14 @@ date: 2025-05-20
 
 <br>
 
+<strong>“Blessed be He in Whose hands is Dominion; and He over all things has Power, 
+
+  He Who created Death and Life, that He may try which of you is best in deed. 
+
+And He is the Exalted in Might, Oft-Forgiving”</strong> - Quran Surah Mulk 67:1-2
+
+
+<br>
 
 **"When a person dies, then all his deeds come to an end except for three: 1 – A continuous charity. 2 – Knowledge left behind that continues to benefit. 3 – A righteous child who prays for him."** - Prophet Muhammad PBUH from Sahih Muslim
 
