@@ -40,7 +40,9 @@ Alhamdulillah there are millions of people around the world who have successfuly
 
 There are slight differences in how people approach and apply this method. For example most people will start by memorising the last (30th) Juz due to it's shorter chapters and then go back to the beginning and work on from there.
 
-Some, more adventerous students might just start at Baqarah from the get go.
+(The Quran's chapters are ordered in such a way that the largest chapters come first and then the chapters generaly get shorter towards the end.)
+
+Some, more adventerous students might just start at Baqarah (Chapter 2) from the get go.
 
 One thing that seems to be true accross the board with this method which I will call the classical method, is that it can and often is, very time consuming.
 
@@ -75,7 +77,7 @@ The very first piece of the puzzle is actually getting the information (Quran ve
 
 As I've already mentioned the classical method focuses a great deal on this first part and to great effect. My method is not meant to be an upgrade, it's an alternative.
 
-Like I wsa saying, the classical method will get you results but it often becomes very time consuming so if you're trying to do things in addition to memorise the Quran it can quickly become a big challenge.
+Like I was saying, the classical method will get you results but it often becomes very time consuming so if you're trying to do things in addition to memorise the Quran it can quickly become a big challenge.
 
 I wanted to make this challenge more managable. Then I remembered the idea of neuroplasticity in neroscience where, when new habits are formed, the physicall structure of the brain actually changes as new connections between the synapes are made and then, as the habit is continually practiced, those circuits become stronger and stronger.
 
@@ -94,7 +96,13 @@ But don't worry, it's not a program I'm going to hide behind a paywall or subscr
 In fact I'm still in the process of figuring out the full method and I will keep track of it in a google drive folder which I will link to [here](https://rb.gy/2ikjzs).
 
 
+**Edit 15.06.2025:** It's worth noting that my method will not give you as strong of a hifz as the classical method will. It will give you a strong enough hifz to recite whatever you learn in salah and whenever else you like.
 
+For example, I know surah mulk, but if you asked me to read from verse 17 I wouldnt be able to do it unless you started me off. Practitioners of the classical method however would have no problem starting off from whichever verse you liked and they would also be able to tell you which page the verse was on and where on the page.
+
+Some might even be able to give you a translation and a summary of the tafsir as well.
+
+Like I said, my method is not a replacement for the classical method. It is an alternative for people who do not have the time to commit to the classical method.
 
 
 So, finally...
@@ -103,7 +111,7 @@ So, finally...
 # Five Minute Hifz.
 
 
-To make things easier, I will refer to the 'commiting to memory' stage as input and the 'recalling the verses' stage as recall. There will also be a revision stage as you will see below.
+To make things easier, I will refer to the 'commiting to memory' stage as input and the 'recalling the verses from memory' stage as recall. There will also be a revision stage as you will see below.
 
 
 ## Stage 1: Input.
