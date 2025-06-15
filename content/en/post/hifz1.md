@@ -116,11 +116,11 @@ To make things easier, I will refer to the 'commiting to memory' stage as input 
 
 ## Stage 1: Input.
 
-Around Fajr time, either before or just after you pray, spend up to a maximum of 5 mins (yes maximum) revising a verse or a number of verses you want to learn.
+As part of your morning routine or ideally just before or just after Fajr, spend up to a maximum of 5 mins (yes maximum) revising a verse or a number of verses you want to learn.
 
 Why 5 minutes? No, not just because that's the name of the method. Limiting your practice time in the morning as well as not looking at the verses or listening to them throught the day tricks your brain into thinking that this information is more rare and therefore more valuable.
 
-In mnemonics there is a famous technique for memorising vast ammounts of information known as the memory palace. One of it's noteworthy points is the stranger and rarer you can make a piece of information seem, the more likeley it is to stick.
+In mnemonics there is a famous technique for memorising vast ammounts of information known as the memory palace. One of it's noteworthy points is, the stranger and rarer you can make a piece of information seem, the more likeley it is to stick.
 
 So, by creating the illusion of rarity the hope is that the brain will assign greater importance to the information than if the classical method was used (because the classical method engulfs the student in an ocean of repetition) and so is more likeley to hold onto it.
 
@@ -130,7 +130,7 @@ If you're learning a short enough Surah you can listen to the whole surah.
 
 When the 5 mins are up, close your Quran or Quran app and stop any audio recordings of the verses you were listenting to.
 
-You are now no longer allowed to listen to or read that those verses (by sight) for the rest of the day until you're basically about to go to bed.
+You are now no longer allowed to listen to or read those verses (by sight) for the rest of the day until you're basically about to go to bed.
 
 ## Stage 2: Recall.
 
@@ -155,7 +155,7 @@ Often when I wake up the verses I'm trying to learn are the first thing that com
 
 # Journaling:
 
-Along with memorising it will also be important for participants to record their progress, successes and failures along the way.
+Along with memorising it will also be important for participants to record their progress, successes and failures along the way so that we can improve and refine the method over time.
 
 To this end, it would be best I think, to keep the journaling methods as simple as possible.
 
