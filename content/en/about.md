@@ -5,6 +5,15 @@ description: "About heyo"
 date: 2025-05-20
 ---
 
+
+Update: 21.10.2025.
+
+I'm making changes to this blog. It's going to have a name change to 'Notes On Faith' as I want to write about lots of different religions and philosophies instead of just one. Yay freedom!
+
+See you soon.
+
+
+
 I wanted to make a blog that focused more on Islam as a pose to just a general blog like [baigelbytes.com](baigelbytes.com).
 
 Also, I've been learning about and exploring Shia Islam for a few months at least as of writing this (05.2025) and I feel like Shia Islam is severely under reprisented in the public eye.
