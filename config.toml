@@ -1,4 +1,4 @@
-title = "People Of The Book"
+title = "Notes On Faith"
 theme = "heyo-hugo-theme"
 baseURL = "https://peopleofthebook.co.uk"
 languageCode = "en"
@@ -22,7 +22,7 @@ pagination.PagerSize = 10
     email = "peopleofthebook601@gmail.com"
 
 [params]
-    title = "People Of The Book"
+    title = "Notes On Faith"
     description = "Contravertial topics, age old wisdom and a whole lot more coming soon!"
     profilePicture = "images/colouredQuran.png"
     favicon = "favicons/"
